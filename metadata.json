@@ -1,0 +1,5 @@
+{
+  "name": "CompTIA Project+ AI Exam Simulator",
+  "description": "A bilingual (English-Chinese) AI-powered simulator for CompTIA Project+ certification, featuring 3 full exam sets with 90 questions each, detailed analysis, and scoring.",
+  "requestFramePermissions": []
+}
